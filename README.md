@@ -12,7 +12,7 @@ Gemfile:
 
 application.css:
 
-    **= require smoothproducts
+    *= require smoothproducts
 
 application.js:
 
