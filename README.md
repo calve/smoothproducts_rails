@@ -1,3 +1,19 @@
-= SmoothproductsRails
+Smoothproducts for Rails
+------------------------
 
-This project rocks and uses MIT-LICENSE.
+This gems provides assets files of the [Smoothproducts](https://github.com/kthornbloom/Smoothproducts) jQuery plugin
+
+Usage
+-----
+
+Gemfile:
+
+    gem 'smoothproducts_rails'
+
+application.css:
+
+    **= require smoothproducts
+
+application.js:
+
+    //= require smoothproducts
